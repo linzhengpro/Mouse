@@ -1,0 +1,16 @@
+ID	Kingdom	Phylum	Class	Order	Family	Genus	Species
+Liver-TG	GAN	Liver-TG	Liver-TG	Liver-TG	Liver-TG	Liver-TG	Liver-TG
+Liver-TC	GAN	Liver-TC	Liver-TC	Liver-TC	Liver-TC	Liver-TC	Liver-TC
+Chrebp	GAN	Chrebp	Chrebp	Chrebp	Chrebp	Chrebp	Chrebp
+Pkm	GAN	Pkm	Pkm	Pkm	Pkm	Pkm	Pkm
+Gk	GAN	Gk	Gk	Gk	Gk	Gk	Gk
+Fat	GAN	Fat	Fat	Fat	Fat	Fat	Fat
+Fatp2	GAN	Fatp2	Fatp2	Fatp2	Fatp2	Fatp2	Fatp2
+Ppar-a	GAN	Ppar-a	Ppar-a	Ppar-a	Ppar-a	Ppar-a	Ppar-a
+Cpt1a	GAN	Cpt1a	Cpt1a	Cpt1a	Cpt1a	Cpt1a	Cpt1a
+Ppar-y	GAN	Ppar-y	Ppar-y	Ppar-y	Ppar-y	Ppar-y	Ppar-y
+FAS	GAN	FAS	FAS	FAS	FAS	FAS	FAS
+Dgat1	GAN	Dgat1	Dgat1	Dgat1	Dgat1	Dgat1	Dgat1
+Dgat2	GAN	Dgat2	Dgat2	Dgat2	Dgat2	Dgat2	Dgat2
+Gpat	GAN	Gpat	Gpat	Gpat	Gpat	Gpat	Gpat
+Liver weight	GAN	Liver weight	Liver weight	Liver weight	Liver weight	Liver weight	Liver weight
